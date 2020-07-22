@@ -4,7 +4,7 @@
 Tutorials:
   1. https://hashnode.com/post/building-a-todo-app-using-reactjs-and-serverless-cjrwd1wio00gur1s2p4zhonmw
 
-  - Used this one
+  - Used this one endl
     2. https://www.serverless.com/blog/serverless-express-rest-api
 
 Tutorial to set up serverless on aws and serverless offline for localhost 
