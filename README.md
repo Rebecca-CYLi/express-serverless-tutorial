@@ -22,5 +22,5 @@ Known bugs for serverless offline:
       - https://github.com/dougmoscrop/serverless-http/issues/86#issuecomment-627514571
 
 
-Killing Ports for resuage:
+Killing Ports for reusage:
 - http://www.mastertheboss.com/jboss-server/jboss-configuration/solving-javanetbindexception-address-already-in-use-jvmbind
