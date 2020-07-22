@@ -6,4 +6,4 @@ Known bugs:
   - app.get('/index', function (req, res) {
       res.send('Hello World!')
     })
-   - can't get '/', '/dev/' : have to do /dev/index/ to be able to get to root path
+   - can't get '/', '/dev/' : have to do '/dev/index/' to be able to get to root path
