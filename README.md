@@ -1,6 +1,8 @@
 
 # express-serverless-tutorial
 
+note to self: (Saved as 'newexpress' project folder name in local)
+
 Tutorials:
 
   1. https://hashnode.com/post/building-a-todo-app-using-reactjs-and-serverless-cjrwd1wio00gur1s2p4zhonmw
